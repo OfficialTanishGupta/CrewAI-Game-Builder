@@ -77,7 +77,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 4. **Customization**: You can further modify the generated code to add features, refine gameplay, or adjust aesthetics.
 
 <p align="center">
-  <img src="game-flow-diagram.png" alt="How It Works" width="600">
+  <img src="images/work.png" alt="How It Works" width="600">
 </p>
 
 ---
