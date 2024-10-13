@@ -185,13 +185,22 @@ Include screenshots for each game example:
 <p align="center">
   <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
 </p>
+<p align="center">
+  <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
+</p>
 
 ### Example 2: Platformer Game Screenshot
 <p align="center">
   <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
 </p>
+<p align="center">
+  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
+</p>
 
 ### Example 3: Shooting Game Screenshot
+<p align="center">
+  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
+</p>
 <p align="center">
   <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
 </p>
