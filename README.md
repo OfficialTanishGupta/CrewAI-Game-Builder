@@ -77,7 +77,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 4. **Customization**: You can further modify the generated code to add features, refine gameplay, or adjust aesthetics.
 
 <p align="center">
-  <img src="game-flow-diagram.png" alt="How It Works" width="600">
+  <img src="images/works.png" alt="How It Works" width="600">
 </p>
 
 ---
@@ -185,13 +185,22 @@ Include screenshots for each game example:
 <p align="center">
   <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
 </p>
+<p align="center">
+  <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
+</p>
 
 ### Example 2: Platformer Game Screenshot
 <p align="center">
   <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
 </p>
+<p align="center">
+  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
+</p>
 
 ### Example 3: Shooting Game Screenshot
+<p align="center">
+  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
+</p>
 <p align="center">
   <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
 </p>
