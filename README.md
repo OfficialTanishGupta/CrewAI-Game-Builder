@@ -111,7 +111,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 <p align="center">
   <img src="images/jump_game_image.png" alt="Screenshot 1" width="600">
   <br><br>
-  <img src="images/jump-Game Image_image.png" alt="Screenshot 2" width="600">
+  <img src="images/jump-Game Image.png" alt="Screenshot 2" width="600">
 </p>
 
 ---
