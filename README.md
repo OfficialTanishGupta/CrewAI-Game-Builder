@@ -136,26 +136,24 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 
 4. **Result**: A classic snake game where the snake grows, and the player aims to get a high score.
 
-### Example 2: Platformer Game
+### Example 2: Shooting Game
 
 1. **Input**: 
     ```
-    Generate a platform game where the player jumps between platforms and collects coins while avoiding enemies.
+    Create a shooter game where the player controls a spaceship that shoots bullets at enemies appearing from the top of the screen.
     ```
 
-2. **Output**: The tool generates Python code for a basic platform game saved as `generated_platform_game.py`. The code includes:
-   - Jumping mechanics.
-   - Moving platforms.
-   - Collectible items like coins.
-   - Enemies that the player must avoid.
+2. **Output**: The tool generates Python code for a space shooter game saved as `generated_shooter_game.py`. This code includes:
+   - A spaceship controlled by the player.
+   - Enemy ships appearing from the top.
+   - Shooting mechanics to destroy enemies.
 
 3. **Run the Code**:
     ```bash
-    python generated_platform_game.py
+    python generated_shooter_game.py
     ```
 
-4. **Result**: A simple platformer with a player, platforms, coins, and enemies. The game is won by collecting all the coins without hitting an enemy.
-
+4. **Result**: A simple shooting game where the player controls a spaceship and shoots at enemies.
 ---
 
 ## Screenshots
@@ -170,12 +168,12 @@ Include screenshots for each game example:
   <img src="images/snake_game.png" alt="Snake Game" width="600">
 </p>
 
-### Example 2: Platformer Game Screenshot
+### Example 3: Shooting Game Screenshot
 <p align="center">
-  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
+  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
 </p>
 <p align="center">
-  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
+  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
 </p>
 
 ---
