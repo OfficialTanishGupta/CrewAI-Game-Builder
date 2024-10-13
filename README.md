@@ -109,9 +109,9 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 ### Example Game Screenshots:
 
 <p align="center">
-  <img src="screenshot1.png" alt="Screenshot 1" width="600">
+  <img src="images/jump_game_image.png" alt="Screenshot 1" width="600">
   <br><br>
-  <img src="screenshot2.png" alt="Screenshot 2" width="600">
+  <img src="images/jump-Game Image.png" alt="Screenshot 2" width="600">
 </p>
 
 ---
