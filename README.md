@@ -3,7 +3,7 @@
 **CrewAi-Game-Builder** is an AI-powered tool that allows users to generate Python game code using natural language prompts. It leverages **crewAI** to provide a seamless interface where users can describe their game idea in plain English, and the tool automatically generates fully functional and playable Python code, significantly accelerating the game development process.
 
 <p align="center">
-  <img src="images/game-builder-image.png" alt="Project Logo" width="300">
+  <img src="images/game_builder_image.png" alt="Project Logo" width="300">
 </p>
 
 ## Table of Contents
