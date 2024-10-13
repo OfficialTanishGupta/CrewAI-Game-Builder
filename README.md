@@ -164,7 +164,7 @@ Include screenshots for each game example:
 
 ### Example 1: Snake Game Screenshot
 <p align="center">
-  <img src="images/snake_Game(2).png" alt="Snake Game" width="600">
+  <img src="images/snake_Game (2).png" alt="Snake Game" width="600">
 </p>
 <p align="center">
   <img src="images/snake_game.png" alt="Snake Game" width="600">
