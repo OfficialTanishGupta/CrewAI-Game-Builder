@@ -156,25 +156,6 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 
 4. **Result**: A simple platformer with a player, platforms, coins, and enemies. The game is won by collecting all the coins without hitting an enemy.
 
-### Example 3: Shooting Game
-
-1. **Input**: 
-    ```
-    Create a shooter game where the player controls a spaceship that shoots bullets at enemies appearing from the top of the screen.
-    ```
-
-2. **Output**: The tool generates Python code for a space shooter game saved as `generated_shooter_game.py`. This code includes:
-   - A spaceship controlled by the player.
-   - Enemy ships appearing from the top.
-   - Shooting mechanics to destroy enemies.
-
-3. **Run the Code**:
-    ```bash
-    python generated_shooter_game.py
-    ```
-
-4. **Result**: A simple shooting game where the player controls a spaceship and shoots at enemies.
-
 ---
 
 ## Screenshots
@@ -195,14 +176,6 @@ Include screenshots for each game example:
 </p>
 <p align="center">
   <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
-</p>
-
-### Example 3: Shooting Game Screenshot
-<p align="center">
-  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
-</p>
-<p align="center">
-  <img src="shooter_game_screenshot.png" alt="Shooting Game" width="600">
 </p>
 
 ---
