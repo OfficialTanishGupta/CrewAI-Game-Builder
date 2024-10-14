@@ -170,7 +170,7 @@ Include screenshots for each game example:
 
 ### Example 3: Shooting Game Screenshot
 <p align="center">
-  <img src="images/spaceship_gam.png" alt="Shooting Game" width="600">
+  <img src="images/spaceship_game.png" alt="Shooting Game" width="600">
 </p>
 <p align="center">
   <img src="images/space_ship.png" alt="Shooting Game" width="600">
