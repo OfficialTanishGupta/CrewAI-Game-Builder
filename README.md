@@ -136,27 +136,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 
 4. **Result**: A classic snake game where the snake grows, and the player aims to get a high score.
 
-### Example 2: Platformer Game
-
-1. **Input**: 
-    ```
-    Generate a platform game where the player jumps between platforms and collects coins while avoiding enemies.
-    ```
-
-2. **Output**: The tool generates Python code for a basic platform game saved as `generated_platform_game.py`. The code includes:
-   - Jumping mechanics.
-   - Moving platforms.
-   - Collectible items like coins.
-   - Enemies that the player must avoid.
-
-3. **Run the Code**:
-    ```bash
-    python generated_platform_game.py
-    ```
-
-4. **Result**: A simple platformer with a player, platforms, coins, and enemies. The game is won by collecting all the coins without hitting an enemy.
-
-### Example 3: Shooting Game
+### Example 2: Shooting Game
 
 1. **Input**: 
     ```
@@ -174,7 +154,6 @@ The AI interprets common game elements (such as player movement, obstacles, or s
     ```
 
 4. **Result**: A simple shooting game where the player controls a spaceship and shoots at enemies.
-
 ---
 
 ## Screenshots
@@ -183,18 +162,10 @@ Include screenshots for each game example:
 
 ### Example 1: Snake Game Screenshot
 <p align="center">
-  <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
+  <img src="images/snake_Game (2).png" alt="Snake Game" width="600">
 </p>
 <p align="center">
-  <img src="snake_game_screenshot.png" alt="Snake Game" width="600">
-</p>
-
-### Example 2: Platformer Game Screenshot
-<p align="center">
-  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
-</p>
-<p align="center">
-  <img src="platformer_game_screenshot.png" alt="Platformer Game" width="600">
+  <img src="images/snake_game.png" alt="Snake Game" width="600">
 </p>
 
 ### Example 3: Shooting Game Screenshot
